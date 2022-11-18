@@ -1,0 +1,13 @@
+C:/Repositories/GraphiсLessons/lernGLFW/build/CMakeFiles/lernGLFW.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/CMakeFiles/INSTALL.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/CMakeFiles/ALL_BUILD.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/CMakeFiles/ZERO_CHECK.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/CMakeFiles/uninstall.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/CMakeFiles/INSTALL.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/src/CMakeFiles/glfw.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/src/CMakeFiles/update_mappings.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glfw/src/CMakeFiles/INSTALL.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glad/CMakeFiles/glad.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glad/CMakeFiles/INSTALL.dir
+C:/Repositories/GraphiсLessons/lernGLFW/build/include/glad/CMakeFiles/ALL_BUILD.dir
